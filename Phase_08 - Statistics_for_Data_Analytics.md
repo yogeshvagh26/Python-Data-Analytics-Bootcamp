@@ -1971,3 +1971,11 @@ Now that you have completed all lessons, test your overall understanding.
 
 **Congratulations!** You have completed Phase 8 of Python for Data Analytics. You now have a solid foundation in statistics, which is essential for any data analytics professional. Keep practising!
 
+
+----
+
+
+
+
+<br/><br/><br/>
+<center> <b>Happy Learning! 😊</b> </center>
