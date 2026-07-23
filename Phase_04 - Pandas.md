@@ -3456,4 +3456,11 @@ Now that you have completed all lessons, test your overall understanding.
 
 **Congratulations!** You have completed Phase 4 of Python for Data Analytics. You now have a deep understanding of Pandas – the most important library for data manipulation. Keep practising!
 
+
 ----
+
+
+
+
+<br/><br/><br/>
+<center> <b>Happy Learning! 😊</b> </center>
