@@ -1893,3 +1893,11 @@ Now that you have completed all lessons, test your overall understanding.
 
 **Congratulations!** You have completed Phase 6 of Python for Data Analytics. You now have advanced visualisation skills that allow you to create professional, statistically-informed, dashboard-ready visualisations. Keep practising!
 
+
+----
+
+
+
+
+<br/><br/><br/>
+<center> <b>Happy Learning! 😊</b> </center>
