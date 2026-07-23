@@ -2224,3 +2224,11 @@ If you have completed all assignments and feel confident, you are ready for the 
 
 **Congratulations!** You have completed Phase 7 of Python for Data Analytics. You now have a complete toolkit for exploring, understanding, and communicating data insights. Keep practising!
 
+
+----
+
+
+
+
+<br/><br/><br/>
+<center> <b>Happy Learning! 😊</b> </center>
