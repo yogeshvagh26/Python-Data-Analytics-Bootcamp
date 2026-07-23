@@ -2579,3 +2579,12 @@ Now that you have completed all lessons, test your overall understanding.
 ---
 
 **Congratulations!** You have completed Phase 3 of Python for Data Analytics. You now have a solid foundation in NumPy – the fundamental library for numerical computing. Keep practising!
+
+
+----
+
+
+
+
+<br/><br/><br/>
+<center> <b>Happy Learning! 😊</b> </center>
