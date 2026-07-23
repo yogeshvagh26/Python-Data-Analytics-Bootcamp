@@ -1255,3 +1255,11 @@ Now that you have completed all lessons, test your overall understanding.
 ---
 
 **Congratulations!** You have completed Phase 9. You are now proficient in connecting Python to SQL databases, performing CRUD operations, and seamlessly integrating SQL's power with Pandas. Keep up the momentum!
+
+---
+
+
+
+
+<br/><br/><br/>
+<center> <b>Happy Learning! 😊</b> </center>
