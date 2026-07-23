@@ -2632,3 +2632,12 @@ You have completed all 12 phases of this comprehensive Python for Data Analytics
 You are now well-equipped to start your career as a data analyst, data scientist, or business intelligence professional. Keep learning, keep building, and keep growing!
 
 Best of luck in your data analytics career! 🚀
+
+
+---
+
+
+
+
+<br/><br/><br/>
+<center> <b>Happy Learning! 😊</b> </center>
