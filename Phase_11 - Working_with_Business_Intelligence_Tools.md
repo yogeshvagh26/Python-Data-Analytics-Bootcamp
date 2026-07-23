@@ -1507,3 +1507,11 @@ Now that you have completed all lessons, test your overall understanding.
 ---
 
 **Congratulations!** You have completed all phases of this comprehensive Python for Data Analytics curriculum. You are now a skilled data professional capable of building end-to-end analytics solutions and integrating them with BI tools. Continue building, learning, and applying your skills to real-world problems. Best of luck in your data analytics career!
+
+---
+
+
+
+
+<br/><br/><br/>
+<center> <b>Happy Learning! 😊</b> </center>
